@@ -2,6 +2,8 @@
 
 **Aiven Labs** is where our experimental, non-production code goes. Sample code, examples used in customer meetings, and at conferences. We’re not expecting outside contributions, but don't let that stop you from submitting suggestions for improvement! For freshness, we archive repositories in Aiven Labs after 6 months of non-human activity.
 
+Please review this Organisation's [Code of Conduct](https://github.com/Aiven-Labs/.github/blob/main/CODE_OF_CONDUCT.md), and ways to report concerns. 
+
 ## Other Aiven GitHub Organisations
 
 Looking for core Aiven stuff? Public repositories under the [main **Aiven** Organisation](https://github.com/aiven) include the Aiven Terraform Provider, the Kubernetes Operator, and the mirrors for PostgreSQL, Apache Cassandra, etc. 

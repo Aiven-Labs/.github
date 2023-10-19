@@ -6,7 +6,7 @@ Please review this Organisation's [Code of Conduct](https://github.com/Aiven-Lab
 
 ## Other Aiven GitHub Organisations
 
-Looking for core Aiven stuff? Public repositories under the [main **Aiven** Organisation](https://github.com/aiven) include the Aiven Terraform Provider, the Kubernetes Operator, and the mirrors for PostgreSQL, Apache Cassandra, etc. 
+Looking for core Aiven stuff? Public repositories under the [main **Aiven** Organisation](https://github.com/aiven) include the Aiven Terraform Provider, the Kubernetes Operator, and the mirrors for Apache Kafka, Apache Cassandra, etc. 
 
 [**Aiven Open**](https://github.com/Aiven-Open) is where all open source projects made and maintained by Aiven and the Aiven Open Source Program Office (OSPO) live. These projects are actively looking for external contributors (individuals, as well as organisations). And in some cases (like Karapace), the project might see contribution from our Product teams as well. This is where you'll find the Klaw project, the Prometheus-Exporter for OpenSearch, all our Kafka Connectors, and more. 
 
